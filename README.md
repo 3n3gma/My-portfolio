@@ -16,7 +16,7 @@ Case Outcomes: Found that cases involving specific types of offenses had a highe
 Time to Prosecution: Analyzed the average time taken from arrest to prosecution, revealing a correlation between longer waiting times and lower conviction rates.
 Recommendations: Suggested improvements in data collection and reporting practices, as well as targeted training for prosecutors to enhance decision-making and case handling
 
-**Repository Link**: [Link to GitHub Repo or Live Demo](https://github.com/3n3gma/My-portfolio/blob/main/Assesment_Notebook.ipynb)  
+**Repository Link**: [GitHub Repository: CPS Data Analysis](https://github.com/3n3gma/My-portfolio/blob/main/Assesment_Notebook.ipynb)  
 **Visualization**: ![Alt text](https://github.com/3n3gma/My-portfolio/blob/main/correlation_plot.png)
 
 ### Project 2: Census Income data
