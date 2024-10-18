@@ -15,8 +15,9 @@ Prosecution Rates: Identified a trend showing that certain demographic groups ha
 Case Outcomes: Found that cases involving specific types of offenses had a higher likelihood of conviction, suggesting potential areas for focused intervention.
 Time to Prosecution: Analyzed the average time taken from arrest to prosecution, revealing a correlation between longer waiting times and lower conviction rates.
 Recommendations: Suggested improvements in data collection and reporting practices, as well as targeted training for prosecutors to enhance decision-making and case handling
+
 **Repository Link**: [Link to GitHub Repo or Live Demo]  
-**Visualization**: !(https://github.com/3n3gma/My-portfolio/blob/main/correlation_plot.png)
+**Visualization**: ![Alt text](https://github.com/3n3gma/My-portfolio/blob/main/correlation_plot.png)
 
 ### Project 2: Census Income data
 **Tool Used**: Python  
