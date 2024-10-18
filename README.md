@@ -34,7 +34,7 @@ Recommendations: Suggested improvements in data collection and reporting practic
 Top Products: Highlighted that espresso-based drinks contributed to 40% of total sales, with muffins being the top-selling food item.
 Customer Segmentation: Observed that loyal customers make 15% of total visits but account for 35% of revenue, underscoring the importance of loyalty programs.  
 **Repository Link**: [Github Repo: coffee shop sales](https://github.com/3n3gma/My-portfolio/blob/main/Coffee%20Shop%20Sales.xlsx)  
-**Visualization**: ![Image of Your Project](URL-to-your-image)
+**Visualization**: ![Alt text](https://github.com/3n3gma/My-portfolio/blob/main/datanalystcoffeshop1.PNG)
 
 ### Project 4: Toy Store Dashboard
 **Tool Used**: Power BI
