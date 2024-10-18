@@ -8,7 +8,7 @@ I am a Business Data Analyst with expertise in Python, R, Power BI, and Excel. I
 ### Project 1: An Analysis of the Crown Prosecution Service
 **Tool Used**: R  
 **Objective**: To analyze and visualize case data from the Crown Prosecution Service to identify trends in prosecution outcomes, demographic factors influencing case results, and areas for potential improvement in decision-making processes.  
-**Description**: This project involves data extraction, cleaning, and analysis of publicly available datasets provided by the Crown Prosecution Service. The analysis aims to uncover patterns in prosecution rates, case outcomes, and demographic factors such as age, gender, and ethnicity of defendants. Using Python, R, and Power BI, I implemented various statistical analyses and visualizations to provide actionable insights that could inform policy decisions and improve the efficiency of the CPS.
+**Description**: This project involves data extraction, cleaning, and analysis of publicly available datasets provided by the Crown Prosecution Service. The analysis aims to uncover patterns in prosecution rates, case outcomes, and demographic factors such as age, gender, and ethnicity of defendants. Using R, I implemented various statistical analyses and visualizations to provide actionable insights that could inform policy decisions and improve the efficiency of the CPS.
 
 **Key Insights/Results**: 
 Prosecution Rates: Identified a trend showing that certain demographic groups had significantly higher prosecution rates compared to others.
@@ -16,7 +16,7 @@ Case Outcomes: Found that cases involving specific types of offenses had a highe
 Time to Prosecution: Analyzed the average time taken from arrest to prosecution, revealing a correlation between longer waiting times and lower conviction rates.
 Recommendations: Suggested improvements in data collection and reporting practices, as well as targeted training for prosecutors to enhance decision-making and case handling
 
-**Repository Link**: [Link to GitHub Repo or Live Demo]  
+**Repository Link**: [Link to GitHub Repo or Live Demo](https://github.com/3n3gma/My-portfolio/blob/main/Assesment_Notebook.ipynb)  
 **Visualization**: ![Alt text](https://github.com/3n3gma/My-portfolio/blob/main/correlation_plot.png)
 
 ### Project 2: Census Income data
