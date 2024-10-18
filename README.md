@@ -24,8 +24,7 @@ Recommendations: Suggested improvements in data collection and reporting practic
 **Objective**: The task is to predict whether a given adult makes more than $50,000 a year or not based on a number of attributes.
 **Description**: Used Python to investigate and train at least 5 ML models including Classification (to predict if an individual was going to earn more $50,000 annually or not), Clustering and Neural Networks. 
 **Key Insights/Results**: The model achieved an 83% accuracy rate with the Neural network accuracy.  
-**Repository Link**: [Link to GitHub Repo or Live Demo]  
-**Visualization**: ![Image of Your Project](URL-to-your-image)
+**Repository Link**: [Github Repo: Census Income Data- ML optimization](https://github.com/3n3gma/My-portfolio/blob/main/Ene_Census_Project.ipynb) 
 
 ### Project 3: Coffee Shop Sales
 **Tool Used**: Microsoft Excel 
