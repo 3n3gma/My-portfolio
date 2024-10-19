@@ -72,5 +72,5 @@ Customer Demographics: Parents in the 25-40 age group represent 60% of the custo
 
 ## Contact
 - **Email**: feliciaanyogo@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/eneanyogo/]
-- **My CV**: []
+- **LinkedIn**: [Say Hello Here](https://www.linkedin.com/in/eneanyogo/)
+- **My Extended CV**: [Learn more about my Professional experience Here](https://github.com/3n3gma/My-portfolio/blob/main/Felicia%20Anyogo%20CV-Business%20Analyst.pdf)
