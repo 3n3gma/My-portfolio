@@ -17,7 +17,7 @@ Case Outcomes: Found that cases involving specific types of offenses had a highe
 Time to Prosecution: Analyzed the average time taken from arrest to prosecution, revealing a correlation between longer waiting times and lower conviction rates.
 Recommendations: Suggested improvements in data collection and reporting practices, as well as targeted training for prosecutors to enhance decision-making and case handling
 
-**Repository Link**: [GitHub Repository: Insurance Data analysis]()  
+**Repository Link**: [GitHub Repository: CPS Data analysis]()  
 **Visualization**: ![Alt text]()
 
 ### Project 2: Census Income dataset
@@ -35,7 +35,7 @@ Recommendations: Suggested improvements in data collection and reporting practic
 Smoking has the most significant impact on insurance charges, with smokers paying, on average, 60% higher premiums than non-smokers.
 BMI is strongly correlated with increased charges, particularly in individuals classified as obese.
 Age is another major factor, with charges increasing linearly as customers get older, highlighting the importance of age in risk assessment.  
-**Repository Link**: [Github Repo: Census Income Data- ML optimization](https://github.com/3n3gma/My-portfolio/blob/main/Ene_Census_Project.ipynb) 
+**Repository Link**: [Github Repo: Insurance Data- ML optimization](https://github.com/3n3gma/My-portfolio/blob/main/Ene_Census_Project.ipynb) 
 **Visualization**: ![Alt text](https://github.com/3n3gma/My-portfolio/blob/main/ML%20insurance%20project%20visualisation.PNG)
 
 ### Project 4: Coffee Shop Sales
