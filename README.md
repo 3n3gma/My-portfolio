@@ -44,7 +44,8 @@ Customer Segmentation: Observed that loyal customers make 15% of total visits bu
 Seasonality: The holiday season in December leads to a 45% increase in sales compared to other months.
 Customer Demographics: Parents in the 25-40 age group represent 60% of the customer base, with the highest spending in educational and tech-based toys.
 **Repository Link**: [Github Repo-Toy Store Dashboard](https://github.com/3n3gma/My-portfolio/blob/main/Ene_Toy%20Store_Sales%20Dashboard.pbix) 
-**Visualization**: ![Alt text](URL-to-your-image)
+
+**Visualization**: ![Alt text](https://github.com/3n3gma/My-portfolio/blob/main/toystore%20dashboard.PNG))
 
 ## Contact
 - **Email**: feliciaanyogo@gmail.com
