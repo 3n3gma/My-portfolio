@@ -35,7 +35,7 @@ Recommendations: Suggested improvements in data collection and reporting practic
 Smoking has the most significant impact on insurance charges, with smokers paying, on average, 60% higher premiums than non-smokers.
 BMI is strongly correlated with increased charges, particularly in individuals classified as obese.
 Age is another major factor, with charges increasing linearly as customers get older, highlighting the importance of age in risk assessment.  
-**Repository Link**: [Github Repo: Insurance Data- ML optimization](https://github.com/3n3gma/My-portfolio/blob/main/Ene_Census_Project.ipynb) 
+**Repository Link**: [Github Repo: Insurance Data- ML optimization](https://github.com/3n3gma/My-portfolio/blob/main/Ene_Anyogo_ML_Insurance_Project.ipynb) 
 **Visualization**: ![Alt text](https://github.com/3n3gma/My-portfolio/blob/main/ML%20insurance%20project%20visualisation.PNG)
 
 ### Project 4: Coffee Shop Sales
