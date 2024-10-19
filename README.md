@@ -18,7 +18,7 @@ Time to Prosecution: Analyzed the average time taken from arrest to prosecution,
 Recommendations: Suggested improvements in data collection and reporting practices, as well as targeted training for prosecutors to enhance decision-making and case handling
 
 **Repository Link**: [GitHub Repository: CPS Data analysis]()  
-**Visualization**: ![Alt text]()
+**Visualization**: ![Alt text](https://github.com/3n3gma/My-portfolio/blob/main/correlation_plot.png)
 
 ### Project 2: Census Income dataset
 **Tool Used**: Python  
