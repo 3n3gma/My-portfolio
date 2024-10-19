@@ -27,7 +27,7 @@ Recommendations: Suggested improvements in data collection and reporting practic
 **Key Insights/Results**: The model achieved an 83% accuracy rate with the Neural network accuracy.  
 **Repository Link**: [Github Repo: Census Income Data- ML optimization](https://github.com/3n3gma/My-portfolio/blob/main/Ene_Census_Project.ipynb) 
 
-### Project 2: Insurance dataset
+### Project 3: Insurance dataset
 **Tool Used**: Python  
 **Objective**: The objective of the Insurance Dataset Analysis project is to identify key factors that influence insurance charges and customer behavior. By analyzing demographic, health, and lifestyle data, the goal is to provide actionable insights that can help insurance companies improve premium pricing strategies, assess risk levels, and optimize customer segmentation. This project leverages Python for data exploration and statistical analysis, helping to make data-driven decisions that enhance profitability and customer satisfaction.
 **Description**: In this project, I analyzed a dataset consisting of insurance customer profiles, including details such as age, gender, BMI, children, smoking habits, region, and charges. The analysis aimed to uncover correlations and patterns in the data to predict insurance charges and evaluate customer risk profiles. Using Python libraries like pandas, matplotlib, and scikit-learn, I performed data cleaning, feature engineering, and built predictive models to understand which factors have the greatest impact on insurance premiums.
@@ -36,6 +36,7 @@ Smoking has the most significant impact on insurance charges, with smokers payin
 BMI is strongly correlated with increased charges, particularly in individuals classified as obese.
 Age is another major factor, with charges increasing linearly as customers get older, highlighting the importance of age in risk assessment.  
 **Repository Link**: [Github Repo: Census Income Data- ML optimization](https://github.com/3n3gma/My-portfolio/blob/main/Ene_Census_Project.ipynb) 
+**Visualization**: ![Alt text](https://github.com/3n3gma/My-portfolio/blob/main/ML%20insurance%20project%20visualisation.PNG)
 
 ### Project 4: Coffee Shop Sales
 **Tool Used**: Microsoft Excel 
