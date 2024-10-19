@@ -43,8 +43,8 @@ Customer Segmentation: Observed that loyal customers make 15% of total visits bu
 **Key Insights/Results**: Top Product Categories: toys account for 30% of total sales, while action figures and dolls contribute to 25%.
 Seasonality: The holiday season in December leads to a 45% increase in sales compared to other months.
 Customer Demographics: Parents in the 25-40 age group represent 60% of the customer base, with the highest spending in educational and tech-based toys.
-**Repository Link**: [Link to GitHub Repo or Live Demo]  
-**Visualization**: ![Image of Your Project](URL-to-your-image)
+**Repository Link**: [Github Repo-Toy Store Dashboard](https://github.com/3n3gma/My-portfolio/blob/main/Ene_Toy%20Store_Sales%20Dashboard.pbix) 
+**Visualization**: ![Alt text](URL-to-your-image)
 
 ## Contact
 - **Email**: feliciaanyogo@gmail.com
